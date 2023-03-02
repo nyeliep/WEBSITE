@@ -64,16 +64,39 @@ nav ul li a{
   list-style: none;
   padding-left: 4px;
   font-size: small;
-  
-  
+
 }
+
 #txt1{
   text-decoration-line: underline;
   list-style: none;
   padding-left: 4px;
   font-size: small;
-  
 }
+.bar{
+  width: 10%;
+  padding-left: 45%;
+}
+  .dot {
+    height: 12px;
+    width: 10px;
+    background-color: #bbb;
+    border-radius: 50%;
+    
+  
+    
+  }
+  .dot-3{
+    height: 12px;
+    width: 10px;
+    background-color:black;
+    border-radius: 50%;
+    
+  
+  }
+
+  
+
 #title{
   text-align: center;
   font-size: 50px;
